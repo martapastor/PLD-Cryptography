@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// Diffie Hellman cipher algorithm
-		 new DHExample().init();
+		// new DHExample().init();
 	
 		 
 		
@@ -16,7 +16,7 @@ public class Main {
 		 
 		 
 		// Pohlig Hellman attack algorithm
-		// new PHExample().init();
+		new PHExample().init();
 	}
 
 }
